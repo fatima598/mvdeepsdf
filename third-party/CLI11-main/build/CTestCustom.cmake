@@ -1,0 +1,1 @@
+set(CTEST_CUSTOM_PRE_TEST "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/CLI11-main/build/informational")

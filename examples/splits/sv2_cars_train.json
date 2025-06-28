@@ -1,0 +1,16 @@
+{
+  "ShapeNetV2": {
+    "02958343": [
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/1a2d2208f73d0531cec33e62192b66e5/models",
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/1a48f3b3c0ab0fdeba8e0a95fbfb7c9/models",
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/1d8fb258aac4175a5834749a5ef37100/models",  
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/1e664c94e932ece9883158c0007ed9ba/models",
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/2c6e2d1e743b93b67f44d6925c8a069/models",
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/2d655fc4ecb2df2a747c19778aa6cc0/models",
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/2d50553277d64ebda513de4eb79b310d/models",
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/992fbae5178edcbc4e31d0cb4d7568/models",
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/1650afa5bf6c8335b37378f3c85478b4/models",
+        "/home/ahmad/ahmad/projects/New_Setup/DeepSDF/meshes/03790512/fbe400bd5e06d541617798af67b81f2f/models"                                        
+    ]
+  }
+}

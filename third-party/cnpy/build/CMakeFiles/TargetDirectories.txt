@@ -1,0 +1,9 @@
+/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/cnpy/build/CMakeFiles/install/strip.dir
+/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/cnpy/build/CMakeFiles/edit_cache.dir
+/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/cnpy/build/CMakeFiles/install/local.dir
+/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/cnpy/build/CMakeFiles/example1.dir
+/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/cnpy/build/CMakeFiles/cnpy-static.dir
+/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/cnpy/build/CMakeFiles/install.dir
+/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/cnpy/build/CMakeFiles/list_install_components.dir
+/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/cnpy/build/CMakeFiles/rebuild_cache.dir
+/home/ahmad/ahmad/projects/New_Setup/DeepSDF/third-party/cnpy/build/CMakeFiles/cnpy.dir

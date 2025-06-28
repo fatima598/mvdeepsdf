@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pointcloud_adaptor_example.dir/pointcloud_adaptor_example.cpp.o  -o ../bin/pointcloud_adaptor_example  -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pointcloud_custom_metric.dir/pointcloud_custom_metric.cpp.o  -o ../bin/pointcloud_custom_metric  -lpthread 

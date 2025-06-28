@@ -1,0 +1,5 @@
+/usr/local/share/cmake/nanoflann/nanoflannTargets.cmake
+/usr/local/lib/pkgconfig/nanoflann.pc
+/usr/local/share/cmake/nanoflann/nanoflannConfig.cmake
+/usr/local/share/cmake/nanoflann/nanoflannConfigVersion.cmake
+/usr/local/include/nanoflann.hpp

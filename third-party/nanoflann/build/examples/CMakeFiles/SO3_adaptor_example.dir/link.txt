@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SO3_adaptor_example.dir/SO3_adaptor_example.cpp.o  -o ../bin/SO3_adaptor_example  -lpthread 
